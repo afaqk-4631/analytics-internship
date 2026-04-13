@@ -81,4 +81,5 @@ Claude's generic flagging caught 2 of 5 manually identified noise cases. It corr
 
 ## Time Spent
 
-8 to 10 hours across two days. The core analysis took around 3 hours. The rest went into the three-layer audit, manual file review, and writing.
+5 to 7 hours. The core analysis took around 3 hours. The rest went into the three-layer audit, manual file review, and writing.
+ 
