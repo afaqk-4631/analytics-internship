@@ -1,5 +1,5 @@
 # SUBMISSION.md
-**Afaq Ahmed | Voxel Research & Analytics Intern | April 2026**
+**Afaq Khan | Voxel Research & Analytics Intern | April 2026**
 
 ---
 
